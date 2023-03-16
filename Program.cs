@@ -10,5 +10,7 @@ namespace ConsoleApp24
             Console.WriteLine("Novo");
             //Nina je super kolegica!
         }
+        
+        int bts = 7;
     }
 }
