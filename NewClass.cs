@@ -6,5 +6,6 @@ namespace ConsoleApp24
 {
     class NewClass
     {
+        //komentar
     }
 }
